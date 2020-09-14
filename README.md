@@ -15,7 +15,7 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 * [Solution](https://4051harsh.github.io/Cousera/Module-4/index.html)
 
 ### Module 5
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module5_solution/)
+* [Solution](https://4051harsh.github.io/Cousera/Module-5/index.html)
 
 
 
